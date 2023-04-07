@@ -4,6 +4,10 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - CodeTON Round 4 Div 1  Div 2 Rated Prizes/A. Beautiful Sequence" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Beta Round 89 Div 2/A. String Task" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 163 Div 2/A. Stones on the Table" />
+      <excludeFolder url="file://$MODULE_DIR$/Codeforces - Codeforces Round 405 rated Div 2 based on VK Cup 2017 Round 1/A. Bear and Big Brother" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
